@@ -1,6 +1,6 @@
 2022 CityU Course Proect Group 3
 
-<!---
-CityUGroup3/CityUGroup3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Command to download our loadtest war in EC2
+```
+wget https://github.com/CityUGroup3/CityUGroup3/raw/main/Load_test_procedure/loadbalancetestweb-0.0.1-SNAPSHOT.war --no-check-certificate
+```
